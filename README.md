@@ -1,5 +1,5 @@
 # Mohammed-SOC 
-# AI Security Log Analyzer
+
 
 Analyzes security logs with Gemini AI and generates a SOC-style incident report:
 - Threat severity level
